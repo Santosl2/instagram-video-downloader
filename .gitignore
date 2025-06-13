@@ -1,2 +1,3 @@
 example.mjs
-videos/
+/resources/*
+!/resources/.gitkeep
