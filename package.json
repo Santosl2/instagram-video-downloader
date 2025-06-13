@@ -1,0 +1,22 @@
+{
+  "name": "instagram-media-downloader",
+  "version": "1.0.0",
+  "description": "Node.js application for downloading videos and images from Instagram stories and feeds with automatic URL decoding and timestamp naming",
+  "main": "src/instagram.mjs",
+  "scripts": {
+    "start": "node src/instagram.mjs"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "video",
+    "image",
+    "media",
+    "stories",
+    "feed",
+    "nodejs",
+    "api"
+  ],
+  "author": "Santosl2",
+  "license": "ISC"
+}
